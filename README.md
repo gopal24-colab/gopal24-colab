@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm GOPAL SASMAL</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gopal24-colab&label=Profile%20views&color=0e75b6&style=flat" alt="gopal24-colab" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207" />
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopal24-colab" alt="gopal24-colab" /></a> </p>
 
@@ -11,12 +11,15 @@
 
 - 🌱 I’m currently learning **Firebase,Redux**
 
-- 💬 Ask me about **Data Structures & Algo,React,Javascript,Node,Database**
+    
+-  <img align="left" width="50" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" />
+    💬  Ask me about **Data Structures & Algo,React,Javascript,Node,Database**
+- <img align="left" width="50" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" /> 📫 How to reach me **gopalsasmal2000@gamil.com**
 
-- 📫 How to reach me **gopalsasmal2000@gamil.com**
 
-- ⚡ <img align="left" width='50' src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
-    Fun fact **J.K Rowling was famously rejected by a mighty 12 publishers before Harry Potter and The Philosopher's Stone was accepted by Bloomsbury - and even then only at the insistence of the chairman's eight-year-old daughter.**
+
+-   <img align="left" width='100' src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
+    ⚡Fun fact **J.K Rowling was famously rejected by a mighty 12 publishers before Harry Potter and The Philosopher's Stone was accepted by Bloomsbury - and even then only at the insistence of the chairman's eight-year-old daughter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
