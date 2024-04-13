@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm GOPAL SASMAL</h1>
+<div style="width:100%;height:20rem;" >
+    
+<img style="height:100%;width:100%; object-fit:cover"  src="https://res.cloudinary.com/dujoneujx/image/upload/v1709207142/docs/joje7jvk2e9ry3lbqha4.gif" />
+</div>
 
+<h1 align="center">Hi 👋, I'm GOPAL SASMAL</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 🙏নমস্কার🙏 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  ![Profile View Counter](https://komarev.com/ghpvc/?username=gopal24-colab)
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  ![Profile View Counter](https://komarev.com/ghpvc/?username=gopal24-colab) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopal-sasmal/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GopalSasmal01) 
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -18,10 +19,11 @@ const GOPAL_SASMAL = {
     code: ["Java" , "Javascript", "TypeScript", "Python"],
     askMeAbout: ["Web Dev", "Tech", "App Development"],
     technologies: {
+        frontend : ["HTML", "CSS", "JavaScript", "TypeScript", "React.JS", "Redux.JS", "Next.JS", "Tailwind"],
         backEnd: {
             js & ts: ["Node", "Express"],
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "Oracle"],
         misc: ["Firebase", "Socket.IO"]
     },
@@ -40,7 +42,7 @@ const GOPAL_SASMAL = {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopal24-colab&show_icons=true&locale=en" alt="gopal24-colab" /></p>
 
- Last Updated on 16/03/2024 00:24:56 UTC
+ Last Updated on 13/04/2024
 <!--END_SECTION:waka-->
 
 
