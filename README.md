@@ -36,13 +36,46 @@ const GOPAL_SASMAL = {
 
 ---
 
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Gopal's github stats](https://github-readme-stats.vercel.app/api?username=gopal24-colab&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gopal24-colab&theme=dark)](https://git.io/streak-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopal24-colab&show_icons=true&locale=en&layout=compact" alt="gopal24-colab" windth="100%"/>
+
+<br/><br/><br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopal24-colab&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<h4 align="center">
+  <a href="https://github.com/gopal24-colab?tab=repositories" title="Show Repositories">👨‍💻 Repositories 👨‍💻</a>
+</h4>
+
+### Things I use on a daily basis
+
+<p align="left">  
+<a href="https://github.com/gopal24-colab/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+<a href="https://github.com/gopal24-colab/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js">
+</a>
+<a href="https://github.com/gopal24-colab/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/gopal24-colab/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+
+ <a href="https://github.com/gopal24-colab/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/gopal24-colab/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopal24-colab&show_icons=true&locale=en&layout=compact" alt="gopal24-colab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopal24-colab&show_icons=true&locale=en" alt="gopal24-colab" /></p>
+</p>
 
- Last Updated on 13/04/2024
+
+ Last Updated on 18/04/2024
 <!--END_SECTION:waka-->
 
 
