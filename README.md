@@ -37,9 +37,9 @@ const GOPAL_SASMAL = {
 ---
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Gopal's github stats](https://github-readme-stats.vercel.app/api?username=gopalsasmal100xdev&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+<!-- ![Gopal's github stats](https://github-readme-stats.vercel.app/api?username=gopalsasmal100xdev&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gopalsasmal100xdev&theme=dark)](https://git.io/streak-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalsasmal100xdev&show_icons=true&locale=en&layout=compact" alt="gopal24-colab" windth="100%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalsasmal100xdev&show_icons=true&locale=en&layout=compact" alt="gopalsasmal100xdev" windth="100%"/>
 
 <br/><br/><br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopalsasmal100xdev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -50,28 +50,25 @@ const GOPAL_SASMAL = {
 ### Things I use on a daily basis
 
 <p align="left">  
-<a href="https://github.com/gopal24-colab/readme-components">
+<a href="https://github.com/gopalsasmal100xdev/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
-<a href="https://github.com/gopal24-colab/readme-components">
+<a href="https://github.com/gopalsasmal100xdev/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js">
 </a>
-<a href="https://github.com/gopal24-colab/readme-components">
+<a href="https://github.com/gopalsasmal100xdev/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
-<a href="https://github.com/gopal24-colab/readme-components">
+<a href="https://github.com/gopalsasmal100xdev/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 </a>
 
- <a href="https://github.com/gopal24-colab/readme-components">
+ <a href="https://github.com/gopalsasmal100xdev/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
-<a href="https://github.com/gopal24-colab/readme-components">
+<a href="https://github.com/gopalsasmal100xdev/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
-
-
-
 </p>
 
 
