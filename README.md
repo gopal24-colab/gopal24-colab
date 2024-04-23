@@ -43,9 +43,10 @@ const GOPAL_SASMAL = {
 
 <br/><br/><br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopalsasmal100xdev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<h4 align="center">
-  <a href="https://github.com/gopalsasmal100xdev?tab=repositories" title="Show Repositories">👨‍💻 Repositories 👨‍💻</a>
-</h4>
+
+
+### My LeetCode Stats:
+[![GOPAL_SASMAL-1152's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=GOPAL_SASMAL-1152&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ### Things I use on a daily basis
 
@@ -72,7 +73,7 @@ const GOPAL_SASMAL = {
 </p>
 
 
- Last Updated on 18/04/2024
+ Last Updated on 23/04/2024
 <!--END_SECTION:waka-->
 
 
