@@ -48,6 +48,9 @@ const GOPAL_SASMAL = {
 ### My LeetCode Stats:
 [![GOPAL_SASMAL-1152's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=GOPAL_SASMAL-1152&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
+### My GeeksForGeeks Stats :
+[![xshadow's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=xshadow)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
 ### Things I use on a daily basis
 
 <p align="left">  
